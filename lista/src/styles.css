@@ -1,0 +1,46 @@
+.container {
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 30px;
+    margin: 32px auto;
+}
+
+.container header {
+    height: 150px;
+    background: #b1b2c2;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+
+.container header img {
+    height: 80px;
+    margin: 10px 30px 10px 10px;
+    border-radius: 100%;
+}
+
+.container header h1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+.container ul {
+    display: grid;
+    grid-gap: 24px;
+    list-style: none;
+}
+
+.container ul li {
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.container ul l1 h3 {
+    color: #000;
+}
+
+
+
