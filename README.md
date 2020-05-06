@@ -3,6 +3,6 @@
 ## Os Hooks usados são o useEffect e useState 
 ## Usando os Hooks a performace para o  uso de estado e efeitos é bem melhor
 ### Confira o codigo!
-### Fotos do App em ReactJS abaixo
+### Foto do App em ReactJS abaixo
 
 ![](https://github.com/JoaoVitorFerreiraJ/Hooks/blob/master/Hooks.PNG)
